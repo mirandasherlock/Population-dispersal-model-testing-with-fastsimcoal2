@@ -8,7 +8,7 @@
 
 MODELNAME="MNN_MIG_N_ANC_032"
 NRUNS="50"
-BASEDIR="/home/username/Scratch/fsc_rostr/4_POPS_FSC/$MODELNAME"
+BASEDIR="/home/username/Scratch/fsc_directory/4_POPS_FSC/$MODELNAME"
 INPUTSUFFIX="MSFS"
 FASTSIMCOAL="fsc28"
 
