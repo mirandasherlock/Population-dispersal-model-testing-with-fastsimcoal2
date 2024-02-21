@@ -1,0 +1,1 @@
+These are a few simple scripts to run simulation analyses with fastsimcoal2. You will need to have prepared for fastsimcoal2 input files and have a fastsimcoal2 input file. The scripts will need adjusting for your file structure and the number of free parameters (e.g. populations, historic events, geneflow) and the line where these changes should be made is indicated. 
