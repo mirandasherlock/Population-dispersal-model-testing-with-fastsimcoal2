@@ -29,7 +29,7 @@ rm -f /$BASEDIR/bestlhoods_numbered.txt
 
 # calculate difference in likelihoods
 
-awk 'NR == 1 {$14 ="Difference"} NR >= 2{$14 = $13-$12}1' /$BASEDIR/bestlhoods_titled.txt > /$BASEDIR/bestlhoods_diff_$MODELNAME.txt
+awk 'NR == 1 {$12 ="Difference"} NR >= 2{$12 = $11-$10}1' /$BASEDIR/bestlhoods_titled.txt > /$BASEDIR/bestlhoods_diff_$MODELNAME.txt
 rm -f /$BASEDIR/bestlhoods_titled.txt
 
 # finds best model
