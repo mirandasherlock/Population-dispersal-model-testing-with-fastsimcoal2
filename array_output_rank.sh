@@ -7,7 +7,7 @@
 #$ -wd /home/username/Scratch/fsc_directory/4_POPS_FSC
 
 MODELNAME="MODELNAME"
-BASEDIR="/home/usernane/Scratch/fsc_directory/4_POPS_FSC/$MODELNAME"
+BASEDIR="/home/username/Scratch/fsc_directory/4_POPS_FSC/$MODELNAME"
 NRUNS="50"
 
 # Here your BASEDIR is the directory of the model that you want to rank the results from each run for. 
